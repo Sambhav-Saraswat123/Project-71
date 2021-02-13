@@ -1,0 +1,22 @@
+.opjmsimg{
+    background-image: url("https://www.joonsquare.com/usermanage/image/business/op-jindal-modern-school-hissar-631/op-jindal-modern-school-hissar-logo.jpg");
+    background-size: 150px 150px;
+    width: 150px;
+    height: 150px;
+}
+body{
+    background: linear-gradient(to left, #00ff6c, #00aaff);
+}
+h2{
+    text-align: center;
+}
+img{
+    height: 300px;
+}
+.row{
+    text-align: center;
+}
+::selection{
+    background-color: #808080b6;
+    color: #FFFFFF;
+}
